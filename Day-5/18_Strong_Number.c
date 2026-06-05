@@ -1,3 +1,5 @@
+// Program to check if a number is a strong number or not
+
 #include <stdio.h>
 int main()
 {
