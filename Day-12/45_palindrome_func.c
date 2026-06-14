@@ -31,7 +31,7 @@ int main()
     if(checkPalindrome(number))
         printf("%d is a Palindrome Number", number);
     else
-        printf("%d is not a Palindrome Number", number);
+        printf("%d is not a Palindrome Number.", number);
 
     return 0;
 }

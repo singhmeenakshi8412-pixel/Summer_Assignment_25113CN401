@@ -23,7 +23,7 @@ int main()
 {
     int number;
 
-    printf("Enter number of terms: ");
+    printf("Enter number of terms.: ");
     scanf("%d", &number);
 
     printFibonacci(number);

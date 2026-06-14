@@ -31,7 +31,7 @@ int main()
     if(checkPerfect(number))
         printf("%d is a Perfect Number", number);
     else
-        printf("%d is not a Perfect Number", number);
+        printf("%d is not a Perfect Number.", number);
 
     return 0;
 }
