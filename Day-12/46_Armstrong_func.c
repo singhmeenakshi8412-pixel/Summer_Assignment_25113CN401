@@ -31,7 +31,7 @@ int main()
     if(checkArmstrong(number))
         printf("%d is an Armstrong Number", number);
     else
-        printf("%d is not an Armstrong Number.", number);
+        printf("%d is not an Armstrong Number", number);
 
     return 0;
 }
